@@ -1,0 +1,4 @@
+name=Win10-IE
+platform=Windows 10
+browserName=IE
+version=11

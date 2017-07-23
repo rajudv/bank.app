@@ -1,0 +1,4 @@
+name=Win10-Chrome
+platform=Windows 10
+browserName=Chrome
+version=59
