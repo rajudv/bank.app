@@ -1,0 +1,3 @@
+diff a/selenium-cucumber-java/RiskNet-RealTime-Web-App/.gitignore b/selenium-cucumber-java/RiskNet-RealTime-Web-App/.gitignore	(rejected hunks)
+@@ -0,0 +1 @@
++/target/
